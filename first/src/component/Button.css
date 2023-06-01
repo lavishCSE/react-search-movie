@@ -1,0 +1,19 @@
+.ram{
+
+    background-color: rgb(194, 170, 170);
+    border: 2px solid red;
+    width : 50%;
+    border-radius: 20px;
+    size: 40px;
+  
+
+
+}
+
+button:hover{
+
+    background-color: blueviolet;
+
+    color: bisque;
+}
+
